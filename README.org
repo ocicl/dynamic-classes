@@ -2,9 +2,8 @@
 
 Classes how you want them, when you want them
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gwkkwg/dynamic-classes.git   |
-| commit  | 844b077  |
-| systems | dynamic-classes |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/dynamic-classes.git |
+| commit  | ebd7405                                           |
+| systems | dynamic-classes                                   |
+|---------+---------------------------------------------------|
